@@ -1,0 +1,20 @@
+在命令行启动程序后，传入三个参数： atlas文件路径，png合图路径，存放结果散图的路径
+执行后，程序将解析atlas，把图切开。
+例： doImage.exe ./myatlas.atlas ./my.png ./
+
+
+/*
+//这段代码没意义
+for(var k in data.frames){
+	var imgData = data.frames[k];
+	// debugger
+	var png,offx,offy,w,h;
+	png = k;
+	offx = imgData.frame.x;
+	offy = imgData.frame.y;
+	w = imgData.frame.w;
+	h = imgData.frame.h;
+	console.log('@"mainUI.png", @"./%s", %d, %d, %d, %d', png, offx, offy, w, h );
+	// console.log('@"mainUI.png", @"',png,'",',offx, offy, w, h);
+}
+*/

@@ -1,0 +1,5 @@
+D:\_git\football\tool\doImage\doImage\bin\Release\doImage.exe.config
+D:\_git\football\tool\doImage\doImage\bin\Release\doImage.exe
+D:\_git\football\tool\doImage\doImage\bin\Release\doImage.pdb
+D:\_git\football\tool\doImage\doImage\obj\Release\doImage.exe
+D:\_git\football\tool\doImage\doImage\obj\Release\doImage.pdb

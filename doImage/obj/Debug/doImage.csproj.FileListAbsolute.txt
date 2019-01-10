@@ -1,0 +1,11 @@
+D:\_desktop\doImage\doImage\bin\Debug\doImage.exe.config
+D:\_desktop\doImage\doImage\obj\Debug\doImage.csprojResolveAssemblyReference.cache
+D:\_desktop\doImage\doImage\bin\Debug\doImage.exe
+D:\_desktop\doImage\doImage\bin\Debug\doImage.pdb
+D:\_desktop\doImage\doImage\obj\Debug\doImage.exe
+D:\_desktop\doImage\doImage\obj\Debug\doImage.pdb
+D:\_git\football\tool\doImage\doImage\bin\Debug\doImage.exe.config
+D:\_git\football\tool\doImage\doImage\bin\Debug\doImage.exe
+D:\_git\football\tool\doImage\doImage\bin\Debug\doImage.pdb
+D:\_git\football\tool\doImage\doImage\obj\Debug\doImage.exe
+D:\_git\football\tool\doImage\doImage\obj\Debug\doImage.pdb
